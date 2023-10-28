@@ -536,7 +536,3 @@ body {
     padding: 20px;
   }
 }
-@media (max-width: 200px) {
-  body {
-    font-size: 16px;
-  }
